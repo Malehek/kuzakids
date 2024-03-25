@@ -693,13 +693,13 @@ textarea.form-control {
     margin-bottom: 10px;
 }
 
-/* .events-post-meta li {
+.events-post-meta li {
     color: #5b3c19;
     display: inline-block;
     font-size: 13px;
     line-height: 20px;
     margin-right: 5px;
-} */
+}
 
 .events-post-meta li a {
     color: #777;
@@ -720,22 +720,6 @@ textarea.form-control {
 .events-content a.donate-btn {
     color: #fff;
     margin: 0 10px 0 0;
-}
-
-.events-post-date-info {
-    background-color: #5c4328;
-    color: #fff;
-    font-weight: 600;
-    padding: 5px 10px;
-    text-transform: uppercase;
-    transition: 0.5s;
-    width: 30% !important;
-    text-align: center;
-    margin-bottom: 20px;
-    float: left;
-    position: absolute;
-    left: 0;
-    bottom: 0;
 }
 
 .events-post-date-info span {
