@@ -693,13 +693,13 @@ textarea.form-control {
     margin-bottom: 10px;
 }
 
-.events-post-meta li {
+/* .events-post-meta li {
     color: #5b3c19;
     display: inline-block;
     font-size: 13px;
     line-height: 20px;
     margin-right: 5px;
-}
+} */
 
 .events-post-meta li a {
     color: #777;
